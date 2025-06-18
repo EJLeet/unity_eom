@@ -116,7 +116,7 @@ Replace `your_bot_token_here` with the actual token you copied.
 Open terminal/command prompt in your bot folder and run:
 
 ```bash
-python bot.py
+python eom_bot.py
 ```
 
 You should see:
@@ -194,7 +194,7 @@ The bot needs these permissions:
 Your final folder should look like:
 ```
 EOM-Bot/
-├── bot.py              # Main bot code
+├── eom_bot.py              # Main bot code
 ├── requirements.txt    # Python dependencies
 ├── credentials.json    # Google API credentials (keep secret!)
 ├── .env               # Discord bot token (keep secret!)
