@@ -14,14 +14,14 @@
 ### 1. Download and Setup Files
 
 1. Create a new folder for your bot (e.g., `EOM-Bot`)
-2. Save the bot code as `bot.py`
+2. Save the bot code as `eom_bot.py`
 3. Create a `requirements.txt` file with the dependencies
 4. Create a `.env` file (we'll add the token later)
 
 Your folder structure should look like:
 ```
 EOM-Bot/
-├── bot.py
+├── eom_bot.py
 ├── requirements.txt
 ├── .env
 └── credentials.json (we'll create this)
